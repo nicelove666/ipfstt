@@ -29,7 +29,6 @@
       "Confirm that this is a public dataset that can be retrieved by anyone on the Network": ""
     },
     "technology": {
-      "Please list the SPs you cooperate with.": "",
       "How many members about your technical team?": "",
       "Please list the storage providers you cooperate with": "",
       "How will the data be prepared? Please include tooling used and technical details": "",
