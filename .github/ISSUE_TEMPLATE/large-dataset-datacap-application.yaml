@@ -11,10 +11,10 @@ body:
 - type: markdown
   attributes:
     value: |
-      # Core Information
+      # Company
 - type: input
   attributes:
-    label: Data Owner Name
+    label: Introduce your company
   validations:
     required: true
 - type: dropdown
