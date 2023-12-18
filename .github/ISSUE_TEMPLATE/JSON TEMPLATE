@@ -3,8 +3,8 @@
   projectId: 1,
   "datacapApplicant": "",
   "applicationInfo": {
-    "coreInformation": {
-      "Data Owner Name": "",
+    "company": {
+      "Introduce your company": "",
       "Data Owner Country/Region": "",
       "Data Owner Industry": "",
       "Website": 0,
